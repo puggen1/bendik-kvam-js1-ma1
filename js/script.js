@@ -1,3 +1,4 @@
+//module assignment 1 javascript for Bendik Kvam
 const cats = [
   {
     name: "Blob",
@@ -15,7 +16,7 @@ const cats = [
 
 let cat = {
   complain: function () {
-    console.log("Meow");
+    console.log("Meow!");
   },
 };
 
